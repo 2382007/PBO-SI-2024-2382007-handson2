@@ -4,10 +4,10 @@ public class BlockVsStatement {
         // Ekspresi a + 20
         // Statement -> int a = 10 + 10
 
-        int = 10 + 10;
-        System.out.println("Miracle Situmorang");
-        System.out.println("Miracle Situmorang");
-        System.out.println("Miracle Situmorang");
-        System.out.println("Miracle Situmorang");
+        int a = 10 + 10;
+        System.out.println("Miracle Situmorang ");
+        System.out.println("Miracle Situmorang ");
+        System.out.println("Miracle Situmorang ");
+        System.out.println("Miracle Situmorang ");
     }
 }
