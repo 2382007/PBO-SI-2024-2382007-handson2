@@ -4,8 +4,9 @@ public class Assignment {
         int x = 10;
         String fullName = "Miracle Situmorang";
 
-        // 2. Assigment aritmatika
+        // 2. Assigment Aritmatika
         int a = 5;
+        a = a + 10;
         a += 5; // a = a + 5
         System.out.println(a);
 
