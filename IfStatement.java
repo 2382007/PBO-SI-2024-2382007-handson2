@@ -9,7 +9,7 @@ public class IfStatement {
         nomorHari = scanner.nextInt();
         String namaHari = "";
 
-        if (namaHari == 1) {
+        if (nomorHari == 1) {
             namaHari = " minggu ";
         } else if (nomorHari == 2) {
             namaHari = " senin ";
@@ -27,4 +27,6 @@ public class IfStatement {
             System.exit(0);
         }
         System.out.println("Nama hari : " + namaHari);
+    }
+
 }
